@@ -1,0 +1,4 @@
+Primero crear un modelo de la base de datos
+Requerir la ruta en server
+Requerir un controlador en la ruta
+Enviar y recibir datos des de el controlador a views
